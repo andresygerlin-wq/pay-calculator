@@ -12,6 +12,9 @@ A simple Python script that computes weekly gross pay, automatically applying an
 ### 2. Largest Number Finder 
 An algorithm to find the maximum value in a list using loops.
 
+### 3. Loop Comparison: Countdown Timer
+Demonstrates the same countdown functionality using both "for" and "while" loops.
+
 ## How to run
 Execute the script using Python 3:
 ```bash
@@ -24,6 +27,7 @@ python filename.py
 ## Author
 
 - [Andrés-Computer Engineering Student](https://github.com/andresygerlin-wq)
+
 
 
 
