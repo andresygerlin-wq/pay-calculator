@@ -1,36 +1,30 @@
 ```markdown
 ```
-# Python Pay Calculator with Overtime
+# Python Learning Journey - University of Michigan Course
 
+A collection of Python exercises and projects from my programming learning path.
+
+## Projects
+
+### 1. Pay Calculator with Overtime
 A simple Python script that computes weekly gross pay, automatically applying an overtime calculation for hpurs over 40.
 
-## Features
-- Calculates overtime pay (**1.5x rate** for hours worked beyond 40).
-- Handles user input errors gracefully using **try/except**.
-- Clean and simple comand-line interface.
+### 2. Largest Number Finder 
+An algorithm to find the maximum value in a list using loops.
 
-## How to use
-
-1. Clone the repository (or download the script):
+## How to run
+Execute the script using Python 3:
 ```bash
-git clone https://github.com/andresygerlin-wq/pay-calculator
-cd python pay-calculator
+python filename.py
 ```
-2. Execute the script using Python 3:
-```bash
-python pay_calculator.py
-```
-## Example
-Enter hours: 45 Enter rate: 10 Pay: 475.0
 
 ## Technologies
 - **Language:** Python 3
-- **Error handling:** implement robust "try/except" blocks.
-- **Logic:** Utilizes detailed **conditional logic** ("if/else") for calculation branching.
 
 ## Author
 
 - [Andrés-Computer Engineering Student](https://github.com/andresygerlin-wq)
+
 
 
 
