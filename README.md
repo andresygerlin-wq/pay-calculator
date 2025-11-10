@@ -1,4 +1,5 @@
 ```markdown
+```
 # Python Pay Calculator with Overtime
 
 A simple Python script that computes weekly gross pay, automatically applying an overtime calculation for hpurs over 40.
@@ -30,6 +31,7 @@ Enter hours: 45 Enter rate: 10 Pay: 475.0
 ## Author
 
 - [Andrés-Computer Engineering Student](https://github.com/andresygerlin-wq)
+
 
 
 
