@@ -10,12 +10,12 @@ A simple Python script that computes weekly gross pay, automatically applying an
 
 ## How to use
 
-1. **Clone the repository (or download the script):**
+1. Clone the repository (or download the script):
 ```bash
 git clone https://github.com/andresygerlin-wq/pay-calculator
 cd python pay-calculator
 ```
-2. **Execute the script using Python 3:**
+2. Execute the script using Python 3:
 ```bash
 python pay_calculator.py
 ```
@@ -25,11 +25,12 @@ Enter rate: 10
 Pay: 475.0
 
 ## Technologies
-* **Language:** Python 3
-* **Error handling:** implement robust "try/except" blocks.
-* **Logic:** Utilizes detailed **conditional logic** ("if/else") for calculation branching.
+**Language:** Python 3
+**Error handling:** implement robust "try/except" blocks.
+**Logic:** Utilizes detailed **conditional logic** ("if/else") for calculation branching.
 
 ## Author
 
 - [Andrés-Computer Engineering Student](https://github.com/andresygerlin-wq)
+
 
