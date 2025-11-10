@@ -20,17 +20,16 @@ cd python pay-calculator
 python pay_calculator.py
 ```
 ## Example
-Enter hours: 45
-Enter rate: 10
-Pay: 475.0
+Enter hours: 45 Enter rate: 10 Pay: 475.0
 
 ## Technologies
-**Language:** Python 3
-**Error handling:** implement robust "try/except" blocks.
-**Logic:** Utilizes detailed **conditional logic** ("if/else") for calculation branching.
+- **Language:** Python 3
+- **Error handling:** implement robust "try/except" blocks.
+- **Logic:** Utilizes detailed **conditional logic** ("if/else") for calculation branching.
 
 ## Author
 
 - [Andrés-Computer Engineering Student](https://github.com/andresygerlin-wq)
+
 
 
